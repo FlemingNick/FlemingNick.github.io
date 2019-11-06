@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "some-animation"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FullpageAnimation",
+		"liveServer.settings.port": 5501
+	}
+}
